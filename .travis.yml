@@ -16,4 +16,4 @@ script:
 
 after_success:
   # Run npm build task.
-  - run npm dist
+  - run npm dev
